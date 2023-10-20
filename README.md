@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinjitonayo
+<h1>👋 Hi, I’m @sinjitonayo</h1>
 - Currently studying at ITB STIKOM Bali with a major in Information Systems and HELP University with a major in Information Technology
 - I'm using this GitHub to save my project
 

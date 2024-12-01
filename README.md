@@ -1,8 +1,16 @@
-<h1>👋 Hi, I’m @sinjitonayo</h1>
-- Currently studying at ITB STIKOM Bali with a major in Information Systems and HELP University with a major in Information Technology
-- I'm using this GitHub to save my project
+# Hi there, I'm Sinjito Nayo 👋
 
-<!---
-sinjitonayo/sinjitonayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! This profile mostly acts as my college project repository!
+
+I am a final-year student in a Dual Degree Program, mostly doing web development
+
+## 🚀 About Me
+- 🌱 Currently learning: React TS, Express, MongoDB
+- 💼 Currently pursuing a dual degree program at HELP University Malaysia & ITB STIKOM Bali
+
+## 🛠️ Tech Stack
+![Languages](https://skillicons.dev/icons?i=nodejs,ts,react,angular,html,css,tailwindcss,django,express,python,svelte,mongo,mysql,sqlite,git&theme=dark)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sinjitonayo&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinjitonayo&layout=compact&theme=radical)  

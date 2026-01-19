@@ -1,16 +1,50 @@
 # Hi there, I'm Sinjito Nayo 👋
 
-Welcome to my GitHub profile! This profile mostly acts as my college project repository!
-
-I am a final-year student in a Dual Degree Program, mostly doing web development
+I’m a fullstack web developer who enjoys building real-world apps with clean UI and solid backend logic.
 
 ## 🚀 About Me
-- 🌱 Currently learning: React TS, Express, MongoDB
-- 💼 Currently pursuing a dual degree program at HELP University Malaysia & ITB STIKOM Bali
+- ✅ Graduated from a Dual Degree Program (HELP University Malaysia & ITB STIKOM Bali)
+- 💻 Focus: Fullstack Web Development
+- 🔒 Currently working on a private Ticketing & Event Management Platform
+- 🌱 Currently exploring Golang deeper (CLI tools + backend fundamentals)
+
+---
 
 ## 🛠️ Tech Stack
-![Languages](https://skillicons.dev/icons?i=nodejs,ts,react,angular,html,css,tailwindcss,django,express,python,svelte,mongo,mysql,postgresql,sqlite,git&theme=dark)
+![Tech](https://skillicons.dev/icons?i=ts,react,nextjs,nuxtjs,angular,svelte,nodejs,express,django,go,mongo,mysql,postgres,sqlite,git,tailwindcss&theme=dark)
+
+### ✅ Most Used / Comfortable
+- React + TypeScript
+- Next.js
+- Node.js + Express
+- TailwindCSS
+- MySQL / PostgreSQL
+
+### 🛠️ Also Worked With
+- Angular
+- Nuxt (Vue)
+- Svelte
+- Django REST Framework
+- MongoDB
+- SQLite
+
+### 🔥 Currently Learning / Improving
+- Golang
+- Backend architecture & scalability
+- Clean system design
+
+---
+
+
+## 🛠️ Tools & Skills
+- REST API design
+- Authentication & role-based access
+- Database design & queries
+- UI/UX implementation (responsive layouts, dashboards, forms)
+- Git & collaborative workflow
+
+---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sinjitonayo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinjitonayo&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinjitonayo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinjitonayo&layout=compact&theme=radical)

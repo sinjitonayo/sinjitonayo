@@ -14,17 +14,6 @@ I enjoy turning messy product flows into clean UI, reliable APIs, and backend wo
 
 ---
 
-## 🧩 What I Like Building
-
-- Ticketing & event-management platforms
-- Registration and admin dashboard systems
-- Checkout and payment-related workflows
-- Real-time ticket availability / ticket hold systems
-- Clean landing pages connected to live backend data
-- Internal tools that make operations less painful
-
----
-
 ## 🛠️ Tech Stack
 
 ![Tech](https://skillicons.dev/icons?i=ts,react,nextjs,nuxtjs,angular,svelte,nodejs,express,django,go,mongo,mysql,postgres,sqlite,redis,git,tailwindcss&theme=dark)
@@ -55,33 +44,6 @@ I enjoy turning messy product flows into clean UI, reliable APIs, and backend wo
 - Database transactions and concurrency control
 - Queue-based background jobs
 - Clean system design for high-traffic product flows
-
----
-
-## 🚧 Selected Work
-
-### 🎟️ Customer-Facing Ticketing Platform
-
-Production ticketing experience for event discovery, ticket selection, booking, checkout, payment redirection, and order completion.
-
-Highlights:
-
-- Built and maintained event landing pages connected to ticket availability
-- Worked on customer-facing booking and checkout flows
-- Integrated frontend flows with backend APIs for booking, payment, and order completion
-- Improved user-facing states for unavailable tickets, expired bookings, and incomplete payment returns
-- Worked with async workflows related to ticket notifications and delayed booking cleanup
-
-### 🏫 Campus Registration & Landing Page Platform
-
-A landing page and registration portal for a university campus, with admin-facing content and application management features.
-
-Highlights:
-
-- Built responsive landing page sections for programs, facilities, partners, testimonials, and registration
-- Developed admin-facing features for managing banners, news, registration waves, and student applications
-- Migrated frontend implementation from React to Next.js for better maintainability and deployment compatibility
-- Improved internal workflows for handling prospective student registration data
 
 ---
 

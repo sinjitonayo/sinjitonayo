@@ -18,24 +18,6 @@ I enjoy turning messy product flows into clean UI, reliable APIs, and backend wo
 
 ![Tech](https://skillicons.dev/icons?i=ts,react,nextjs,nuxtjs,angular,svelte,nodejs,express,django,go,mongo,mysql,postgres,sqlite,redis,git,tailwindcss&theme=dark)
 
-### Main Stack
-
-- React + TypeScript
-- Next.js
-- Node.js + Express
-- TailwindCSS
-- MySQL / PostgreSQL
-- Redis / BullMQ
-
-### Also Worked With
-
-- Angular
-- Nuxt / Vue
-- Svelte / SvelteKit
-- Django REST Framework
-- MongoDB
-- SQLite
-- Socket.io
 
 ### Currently Learning / Improving
 
@@ -44,34 +26,6 @@ I enjoy turning messy product flows into clean UI, reliable APIs, and backend wo
 - Database transactions and concurrency control
 - Queue-based background jobs
 - Clean system design for high-traffic product flows
-
----
-
-## 🛠️ Tools & Skills
-
-- REST API design
-- Authentication & role-based access
-- Database design & SQL queries
-- Frontend architecture and reusable UI components
-- Responsive layouts, dashboards, forms, and landing pages
-- Async jobs and delayed workflows with Redis/BullMQ
-- Git, GitHub Actions, and collaborative workflow
-- Debugging real-world product edge cases
-
----
-
-## 📌 Current Focus
-
-Right now, I’m focusing on becoming stronger at backend fundamentals and product-level system design.
-
-Topics I’m actively studying:
-
-- Database transactions and isolation levels
-- Idempotency and reliable payment-related workflows
-- Queue-based architecture
-- Redis-based temporary state and delayed jobs
-- System design for ticketing, checkout, and high-traffic event flows
-- Golang fundamentals for backend development
 
 ---
 
